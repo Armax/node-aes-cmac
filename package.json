@@ -33,6 +33,7 @@
     "mocha": "^1.20.1"
   },
   "dependencies": {
-    "buffer": "^6.0.3"
+    "buffer": "^6.0.3",
+    "react-native-quick-crypto": "^0.7.5"
   }
 }
